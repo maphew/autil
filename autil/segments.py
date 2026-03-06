@@ -38,6 +38,10 @@ def detect_speaker_changes(
 
     energies = np.array(energies)
 
+    # Handle edge case: no segments generated (audio too short)
+    if len(energies) == 0:
+        return []
+
     # Normalize to [0, 1]
     max_energy = np.max(energies)
     if max_energy > 0:
@@ -110,6 +114,10 @@ def detect_solo_regions(
         rms_values.append(rms)
 
     rms_values = np.array(rms_values)
+
+    # Handle edge case: no segments generated (audio too short)
+    if len(rms_values) == 0:
+        return []
 
     # Normalize to [0, 1]
     max_rms = np.max(rms_values)

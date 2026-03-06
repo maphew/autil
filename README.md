@@ -128,7 +128,7 @@ autil info <input>
 
 ## Development
 
-This project uses pytest for testing (TDD is aspirational).
+This project uses pytest for testing with TDD.
 
 ```bash
 # Install dev dependencies

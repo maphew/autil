@@ -39,6 +39,10 @@ def detect_silence(
 
     frames = np.array(frames)
 
+    # Handle edge case: no frames generated (audio too short)
+    if len(frames) == 0:
+        return []
+
     # Convert to dB relative to max RMS
     max_rms = np.max(frames)
     if max_rms > 0:
