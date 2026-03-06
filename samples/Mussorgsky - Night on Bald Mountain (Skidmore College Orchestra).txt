@@ -1,0 +1,29 @@
+Night on Bald Mountain (Rimsky-Korsakov's Edition, 1886)
+Composer: Modest Petrovich Mussorgsky (1839-1881)
+Performer: Skidmore College Orchestra
+Duration: 12 min 13 s
+Form: Symphonic Poem
+Key: F Major
+Period: Romantic
+
+Source: https://commons.wikimedia.org/wiki/File:Modest_Mussorgsky_-_night_on_bald_mountain.ogg
+Also available at: https://musopen.org/music/4874-night-on-bald-mountain/
+
+License (composition): Public Domain
+  The composition is in the public domain worldwide (author died 1881).
+
+License (recording): Public Domain Mark 1.0
+  License URL: https://creativecommons.org/publicdomain/mark/1.0/
+  Released into the public domain by Musopen (http://musopen.com).
+
+Musopen requests, out of courtesy:
+  1. Do not directly sell these recordings for profit.
+  2. Attribute Musopen in any commercial or derived works.
+
+Files:
+  Mussorgsky - Night on Bald Mountain (Skidmore College Orchestra).ogg  (original, renamed from Wikimedia default)
+  Mussorgsky - Night on Bald Mountain (Skidmore College Orchestra).mp3  (converted from ogg)
+
+Download and convert:
+  curl -L -o "Mussorgsky - Night on Bald Mountain (Skidmore College Orchestra).ogg" "https://upload.wikimedia.org/wikipedia/commons/c/ca/Modest_Mussorgsky_-_night_on_bald_mountain.ogg"
+  ffmpeg -i "Mussorgsky - Night on Bald Mountain (Skidmore College Orchestra).ogg" -vn -ab 320k -ar 44100 "Mussorgsky - Night on Bald Mountain (Skidmore College Orchestra).mp3"

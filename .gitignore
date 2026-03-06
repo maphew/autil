@@ -1,4 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
 
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+
+# Audio sample binaries (reproducible via recipes in .txt sidecar files)
+samples/*.mp3
+samples/*.webm
+samples/*.ogg

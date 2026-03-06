@@ -1,0 +1,21 @@
+Carl Sagan - Commencement Address
+Date: May 1990
+Duration: ~32 minutes
+Topics: Carl Sagan, Cosmos, Space, Astronomy
+
+Source: https://archive.org/details/CarlSagan
+Uploaded by: Wilhem Nyland (February 4, 2014)
+
+License: Public Domain Mark 1.0
+License URL: http://creativecommons.org/publicdomain/mark/1.0/
+
+This work has been identified as being free of known restrictions under
+copyright law, including all related and neighboring rights. You can copy,
+modify, distribute, and perform the work, even for commercial purposes,
+all without asking permission.
+
+Files:
+  Carl Sagan - Commencement Address 1990.mp3  (renamed from CarlSagan.mp3)
+
+Download:
+  curl -L -o "Carl Sagan - Commencement Address 1990.mp3" "https://archive.org/download/CarlSagan/CarlSagan.mp3"

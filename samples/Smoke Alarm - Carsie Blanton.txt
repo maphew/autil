@@ -1,0 +1,32 @@
+Smoke Alarm
+by Carsie Blanton
+Album: Idiot Heart
+Released: Mar 28, 2012
+Genres: Pop, Folk, Americana
+
+Source: https://www.youtube.com/watch?v=dQQ09Lxy7dI
+Free Music Archive: https://freemusicarchive.org/music/Carsie_Blanton/Idiot_Heart/Smoke_Alarm/
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 Unported (CC BY-NC-ND 3.0)
+License URL: https://creativecommons.org/licenses/by-nc-nd/3.0/
+
+You are free to:
+  Share — copy and redistribute the material in any medium or format.
+
+Under the following terms:
+  Attribution — You must give appropriate credit, provide a link to the
+      license, and indicate if changes were made.
+  NonCommercial — You may not use the material for commercial purposes.
+  NoDerivatives — If you remix, transform, or build upon the material,
+      you may not distribute the modified material.
+  No additional restrictions — You may not apply legal terms or
+      technological measures that legally restrict others from doing
+      anything the license permits.
+
+Files:
+  Smoke Alarm - Carsie Blanton.webm  (original audio, renamed from yt-dlp default)
+  Smoke Alarm - Carsie Blanton.mp3   (converted from webm)
+
+Download and convert:
+  yt-dlp -f bestaudio -o "Smoke Alarm - Carsie Blanton.%(ext)s" "https://www.youtube.com/watch?v=dQQ09Lxy7dI"
+  ffmpeg -i "Smoke Alarm - Carsie Blanton.webm" -vn -ab 320k -ar 44100 "Smoke Alarm - Carsie Blanton.mp3"
