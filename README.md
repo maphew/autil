@@ -141,6 +141,10 @@ pytest
 pytest --cov=autil
 ```
 
+## History
+
+2026-03-06: Initial idea prototyped with assistance from Ampcode. That experience used to write a plan. The prototype was thrown out and the plan given to Kilocode CLI to generate the current codebase. Kilo was used in Orchestrator mode with 'kilo-auto: Free' model provider.
+
 ## License
 
-MIT License
+Copyright 2026 Matt Wilkie <maphew@gmail.com> MIT License
