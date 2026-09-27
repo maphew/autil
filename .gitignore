@@ -21,6 +21,7 @@ htmlcov/
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+*.gate.lock*
 
 # Audio sample binaries (reproducible via recipes in .txt sidecar files)
 samples/*.mp3
