@@ -1,2 +1,6 @@
 # Keep samples dir clean - input files only
 *_fingerprint.*
+*.mp3
+*.ogg
+*.flac
+*.webm
